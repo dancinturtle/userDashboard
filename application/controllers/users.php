@@ -14,5 +14,7 @@ class Users extends CI_Controller {
 	public function newuser(){
 		$this->load->view('create');
 	}
-
+	public function adminedit(){
+		$this->load->view('adminedit');
+	}
 }

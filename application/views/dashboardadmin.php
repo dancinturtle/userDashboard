@@ -29,7 +29,7 @@
 				<td>michael@village88.com</td>
 				<td>Dec. 23, 1909</td>
 				<td>Admin</td>
-				<td><a href="#">Edit</a></td>
+				<td><a href="/users/adminedit">Edit</a></td>
 				<td><a href="#">Remove</a></td>
 			</tr>
 		</table>
