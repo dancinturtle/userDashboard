@@ -1,0 +1,14 @@
+.hero-unit {
+	background-color: #EFEFEF;
+	padding: 15px;
+}
+.hero-unit a {
+	margin-top: 15px;
+}
+.outline {
+	border: 1px solid silver;
+	padding: 5px;
+}
+.time {
+	text-align: right;
+}
